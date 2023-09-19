@@ -14,7 +14,7 @@ insert into product values (default, '냉장고', 800000);
 
 select * from product;
 
-/* 판매 테이블 */
+/* 판매 테이ㅐ블 */
 
 create table sale (
 	idx 	int not null auto_increment primary key, /* 판매테이블 고유 번호 */
